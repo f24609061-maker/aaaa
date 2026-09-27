@@ -2,3 +2,4 @@ benign change 2
 benign change 3
 benign change 4
 benign change 5
+benign change 6
